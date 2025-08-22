@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fenil Kalariya</h1>
-<h3 align="center">- 👀 I'm currently learning and always learning! -💻 I passionate programing languages.</h3>
+<h3 align="center">- 👀 I'm currently learning and always learning! </h3>
+<h3 align="center">-💻 I passionate programing languages.</h3>
 
 - 🔭 I’m currently working on *Daily Drift*
 
